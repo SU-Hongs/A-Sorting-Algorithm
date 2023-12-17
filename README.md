@@ -26,5 +26,5 @@ This repository contains a C program written by Raymond Wong, used for experimen
 2. Run the compiled program, ./sort_program.
 3. Check output.txt, stat.txt, and time.txt for the results.
 
-4. ## Citation
-5. If you want to use our code, please cite as xxx.
+## Citation
+If you want to use our code, please cite as xxx.
