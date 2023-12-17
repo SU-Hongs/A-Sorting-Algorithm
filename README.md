@@ -1,6 +1,6 @@
 # Sorting and Performance Statistics Program
 ## Overview
-This repository contains a C program written by Raymond Wong, used for experimental setup. It's designed to read data from a file, sort it using a simple sorting algorithm, and output the sorted data along with performance statistics and timing information.
+This repository contains a C program to sort data along with performance statistics and timing information.
 
 ## Repository Contents
 - sort.c: The main C source code for the sorting program.
