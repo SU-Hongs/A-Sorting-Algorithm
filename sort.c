@@ -1,5 +1,5 @@
 /*
-  Written by Raymond Wong.
+  Written by Hong.
   It is used for experimental setup.
 */
 #include <stdio.h>
