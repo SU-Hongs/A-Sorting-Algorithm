@@ -18,9 +18,8 @@ This repository contains a C program written by Raymond Wong, used for experimen
 ## Configuration File Format (config.txt)
 - Data filename (data.txt)
 - Size of the data array
-Three additional parameters (1000, 2000, and 0.5 in the given example) which might be used for further customization or experimental purposes.
+- Three additional parameters (1000, 2000, and 0.5 in the given example).
 ## Example Data File Content (data.txt)
-Copy code
 10 8 5 2 3 7 6 2 4 1
 ## Compilation and Execution
 1. Compile the program using a C compiler, e.g., gcc -o sort_program sort.c.
